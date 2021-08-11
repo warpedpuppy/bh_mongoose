@@ -1,0 +1,155 @@
+[{
+    "Title": "Under Siege",
+    "Description": "is an American action thiller of an ex Navy Seal who must stop a group of mercenaries.",
+    "Genre": {
+        "Name": "Action",
+        "Description": "Action film is a fast pace film involves lots of exictement and special effects."
+    },
+    "Director": {
+        "Name": "Andrew Davis",
+        "Bio": "an American film director, producer, writer, and cinematographer",
+        "Birth_year": "1946"
+    },
+    "image_URL": "https://upload.wikimedia.org/wikipedia/en/3/3d/StevenSeagalUnderSiege_cover.jpg",
+    "Featured": true
+}, {
+    "Title": "Schitt's Creek",
+    "Description": "A wealthy couple finds themselves completely broke with one asset left. A town called Schitt's Creek.",
+    "Genre": {
+        "Name": "Comedy",
+        "Description": "is a sitcom or type of comedy."
+    },
+    "Director": {
+        "Name": "Eugene Levy",
+        "Bio": "a Canadian actor, director, producer, comdian, and writer.",
+        "Birth": "1946"
+    },
+    "ImagePath": "https://en.wikipedia.org/wiki/File:Schitt%27s_Creek_logo.png",
+    "Featured": false
+}, {
+    "Title": "The Last Dance",
+    "Description": "ESPN documentary series about Michael Jordan and the Chicago Bulls.",
+    "Genre": {
+        "Name": "Documentary",
+        "Description": "is a non-fiction movie that documents reality for education."
+    },
+    "Director": {
+        "Name": "Jason Hehir",
+        "Bio": "an American director and producer.",
+        "Birth": "1976"
+    },
+    "ImagePath": "https://en.wikipedia.org/wiki/File:The_Last_Dance_2020.jpg",
+    "Featured": false
+}, {
+    "Title": "The Queen's Gambit",
+    "Description": "Set during the Cold War era, orphaned chess prodigy Beth Harmon struggles with addiction while becoming the greatest chess player in the world.",
+    "Genre": {
+        "Name": "Drama",
+        "Description": "an exciting, emotional or unexpected series of events."
+    },
+    "Director": {
+        "Name": "Scott Frank",
+        "Bio": "an American screenwriter, film director, and author.",
+        "Birth": "1960"
+    },
+    "ImagePath": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Queen%27s_Gambit_%28miniseries%29.png",
+    "Featured": false
+}, {
+    "Title": "Training Day",
+    "Description": "Police drama about a veteran cop who escorts a rookie cop on his first day with the LAPD tough inner city narcotics unit.",
+    "Genre": {
+        "Name": "Crime",
+        "Description": "Crime thriller focuses on exciting elements of crimes."
+    },
+    "Director": {
+        "Name": "Antoine Fuqua",
+        "Bio": "an American filmmaker and comic artist.",
+        "Birth": "1966"
+    },
+    "ImagePath": "https://upload.wikimedia.org/wikipedia/en/b/b3/Training_Day_Poster.jpg",
+    "Featured": false
+}, {
+    "Title": "What's Eating Gilbert Grape",
+    "Description": "a small town young man with a lot of responsibility like his cocerns for his mothers health and his impaired younger brother.",
+    "Genre": {
+        "Name": "Period Drama",
+        "Description": "an exciting, emotional, or unexpected series of events."
+    },
+    "Director": {
+        "Name": "Lasse Hallstrom",
+        "Bio": "a Swedish film director.",
+        "Birth": "1946"
+    },
+    "ImagePath": "https://upload.wikimedia.org/wikipedia/en/5/5c/What%27s_Eating_Gilbert_Grape_poster.png",
+    "Featured": false
+}, {
+    "Title": "The Whole Truth",
+    "Description": "a defense attorney inherrits a case where he must get a teen aquited for the murder of his father.",
+    "Genre": {
+        "Name": "Drama",
+        "Description": "an exciting, emotional, or unexpected series of events."
+    },
+    "Director": {
+        "Name": "Courtney Hunt",
+        "Bio": "a American director and screenwriter.",
+        "Birth": "1964"
+    },
+    "ImagePath": "https://upload.wikimedia.org/wikipedia/en/a/a8/TheWholeTruth_2016poster.jpg",
+    "Featured": false
+}, {
+    "Title": "My Fair Lady",
+    "Description": "a professor is so sure of his abilities that he takes it upon himself to transform a working class girl into a cultured member of high society.",
+    "Genre": {
+        "Name": "Romance",
+        "Description": "a love story."
+    },
+    "Director": {
+        "Name": "George Cukor",
+        "Bio": "an American film director.",
+        "Birth": "1899"
+    },
+    "ImagePath": "https://upload.wikimedia.org/wikipedia/en/d/d5/My_fair_lady_poster.jpg",
+    "Featured": false
+}, {
+    "Title": "Ma Rainey's Black Bottom",
+    "Description": "American biographical musical drama film on Ma Rainey a blues singer.",
+    "Genre": {
+        "Name": "Musical Drama",
+        "Description": "a drama set to music."
+    },
+    "Director": {
+        "Name": "George C Wolfe",
+        "Bio": "an American playwright and director of theater and film.",
+        "Birth": "1954"
+    },
+    "ImagePath": "https://upload.wikimedia.org/wikipedia/en/1/19/Stranger_Things_Poster.jpg",
+    "Featured": false
+}, {
+    "Title": "Nomadland",
+    "Description": "a older woman after losing everything, embarks on a journey through the American West.",
+    "Genre": {
+        "Name": "Drama",
+        "Description": "an exciting, emotional, or unexpected series of events."
+    },
+    "Director": {
+        "Name": "Chloe Zhao",
+        "Bio": "a Chinese filmmaker.",
+        "Birth": "1982"
+    },
+    "ImagePath": "https://en.wikipedia.org/wiki/Nomadland_(film)#/media/File:Nomadland_poster.jpeg",
+    "Featured": false
+}, {
+    "Title": "Equalizer",
+    "Description": "a man with mysterious origin tries to put his past behind him and live a quiet new life.",
+    "Genre": {
+        "Name": "Action",
+        "Description": "an exciting fast pace film with special effects."
+    },
+    "Director": {
+        "Name": "Antoine Fuqua",
+        "Bio": "a American filmmaker and comic artist.",
+        "Birth": "1966"
+    },
+    "ImagePath": "https://en.wikipedia.org/wiki/Nomadland_(film)#/media/File:Nomadland_poster.jpeg",
+    "Featured": false
+}]

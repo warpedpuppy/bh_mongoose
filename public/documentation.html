@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Documentation</title>
+    </head>
+    <body>
+        <h1>MyFlix</h1>
+            <p>The objective of this api is to focus on the server side componenets of a movies web application.
+            The web application will provide information about movies, directors and different genres to users.
+            Users will have the option to sign up with their personal information and create a list of their favorite 
+            movies.</p>
+
+            <table>
+                <tr>
+                    <th>Request</th>
+                    <th>Url</th>
+                    <th>Http Method</th>
+                    <th>Request Body</th>
+                    <th>Response Body</th>
+                </tr>
+                <tr>
+                    <td>Get list of Movies</td>
+                    <td>/movies</td>
+                    <td>GET</td>
+                    <td>None</td>
+                    <td>Json objects show data on list of movies</td>
+                </tr>
+                <tr>
+                    <td>Movie details</td>
+                    <td>/movies/details/:title</td>
+                    <td>GET</td>
+                    <td>None</td>
+                    <td>Json objects showing data on movie title, img, description,genre, directors, actors</td>
+                </tr>
+                <tr>
+                    <td>Movie Directors</td>
+                    <td>/movies/directors/:name</td>
+                    <td>Get</td>
+                    <td>None</td>
+                    <td>Json objects returns information on directors, birth, death</td>
+                </tr>
+                <tr>
+                    <td>Delete movies from list</td>
+                    <td>/movies/remove/:title</td>
+                    <td>Delete</td>
+                    <td>None</td>
+                    <td>message indicating the status on if the movie was deleted or not</td>
+                </tr>
+                <tr>
+                    <td>Add a New User</td>
+                    <td>/users</td>
+                    <td>Post</td>
+                    <td>Json about new username</td>
+                    <td>Json with information added and id confirming completion or failure</td>
+                </tr>
+                <tr>
+                    <td>Log in</td>
+                    <td>/users</td>
+                    <td>Get</td>
+                    <td>None</td>
+                    <td>Json with data about users account</td>
+                </tr>
+                <tr>
+                    <td>Update account</td>
+                    <td>Post</td>
+                    <td>/users</td>
+                    <td>Json with data that is being added</td>
+                    <td>Json confirming that updates have been applied or denied</td>
+                </tr>
+                <tr>
+                    <td>Delete a user</td>
+                    <td>/users/delete/:username</td>
+                    <td>Delete</td>
+                    <td>None</td>
+                    <td>Message indicating the status of whether or not the request was completed</td>
+                </tr>
+            </table>
+    </body>
+</html>
